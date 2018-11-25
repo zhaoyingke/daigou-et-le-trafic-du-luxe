@@ -1,0 +1,86 @@
+main{
+  margin-top: 35px
+}
+
+body {
+    background-color: #000000
+}
+
+
+p{
+	text-align: left;
+  color:#ffffff
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color:#b05080;
+  text-transform: uppercase;
+}
+h5{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color:#82adc0
+}
+.app {
+  
+}
+.source{
+  font-size: 18px;
+  font-style: italic;
+}
+.main{
+	margin: auto;
+  font-family: 'Quattrocento', serif;
+  font-weight: 200,
+  font-size: 26px;
+  line-height: 26px;
+}
+.title{
+  margin: auto;
+  text-align: right;
+  font-family: 'Playfair Display SC', serif;
+  font-weight: 700;
+  text-transform: capitalize;
+}  
+.diagram{
+  padding-right: 0px;
+  margin-right: 0px;
+  text-align;right
+}
+.paradiagram{
+  margin-left: 0px;
+  margin-top: 0px
+}  
+.illus{
+  margin: auto;
+  text-align: right;
+}
+.titlepic{
+  max-width: 70%
+}
+.chapo{
+  margin: auto;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400
+
+}
+.firstcharacter {
+  color: #b05080;
+  float: left;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+.signature{
+  color: #82adc0;
+  font-family: 'Playfair Display SC', serif;
+  font-weight: 400;
+  text-align: center
+}
